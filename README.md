@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Ansh shah</h1>
 <h3 align="center">A passionate Web developer learner from India</h3>
 
