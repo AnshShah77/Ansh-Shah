@@ -18,12 +18,6 @@
   </a>&nbsp;&nbsp;
  
 
-    <img src="https://profile-counter.glitch.me/jhenilparihar/count.svg" height=32 />
-  </a>  
-  <a href="https://bit.ly/arup-resume">
-    <img height="33" src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true">
-  </a>&nbsp;&nbsp; -->
-</p>
 
 <div align="center">
 
@@ -121,20 +115,6 @@ If you like what i do, maybe consider buying me a coffee <br> 🥺👉👈
 
 <hr>
 
-<h2 align="center"> 📈 Statistics </h2>
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=jhenilparihar&show_icons=true&theme=tokyonight" />
-  &nbsp;
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=jhenilparihar&theme=tokyonight" />
-</p>
-
-<details align="center">
-    <summary> <code>Click for More Stats</code> </summary>
-    <br>
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenilparihar&layout=compact&theme=tokyonight" />
-    &nbsp;
-    <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=jhenilparihar&custom_title=Contributions&theme=react-dark&bg_color=20232a&radius=6" />
-</details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
