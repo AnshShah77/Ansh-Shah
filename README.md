@@ -1,7 +1,7 @@
 
 <p>
- <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" height="200"/>
-<img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/life_balance.gif" alt="side Image" align="right" width="400" height="400" />
+ <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250" height="250"/>
+<img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/life_balance.gif" alt="side Image" align="right" width="250" height="250" />
 </p>
 <hr>
 <p><!-- <img  align="right" src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="150"/>
