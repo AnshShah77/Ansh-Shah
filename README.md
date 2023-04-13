@@ -1,4 +1,10 @@
-<!-- <img  align="right" src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="150"/>
+
+<p>
+ <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" height="200"/>
+<img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/life_balance.gif" alt="side Image" align="right" width="400" height="400" />
+</p>
+<hr>
+<p><!-- <img  align="right" src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="150"/>
  -->
 <p align="center"> 
   <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<This+is+Ansh+Shah!>;<Nice+to+meet+you!>">
